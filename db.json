@@ -1,0 +1,34 @@
+{
+  "posts" : [
+    {
+      "id": 1,
+      "title": "user11"
+    },
+    {
+      "id": 2,
+      "title": "user22"
+    },
+    {
+      "id": 3,
+      "title": "user33"
+    }],
+  "comments": [
+    {
+      "id": 1,
+      "body": "comments of the year(user11)",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "my comment is better(user22)",
+      "postId": 1
+    },
+    {
+      "id": 3,
+      "body": "mine is better than all (user33)",
+      "postId": 1
+    }],
+  "profile": {
+    "name": "typecode"
+  }
+}
